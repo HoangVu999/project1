@@ -19,28 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="374c2d86-9647-4591-b6ca-f9b00fe526d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/category-big.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category-grid.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category-list.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category-masonry.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-2.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-3.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-404.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-about.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-author.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-contact.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-login.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-register.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-search.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-typography.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-2.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-3.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-4.html.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.html.htm" beforeDir="false" />
-    </list>
+    <list default="true" id="374c2d86-9647-4591-b6ca-f9b00fe526d9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599750995505</updated>
-      <workItem from="1599750996785" duration="1209000" />
+      <workItem from="1599750996785" duration="1409000" />
     </task>
     <servers />
   </component>
